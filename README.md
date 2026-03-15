@@ -1,5 +1,4 @@
 ## Hi there 👋
-
-My name is Eren Kozan.
-I am a freshman at Bilkent studying CS.
-Contact: erenkozan2007@gmail.com
+🎓 | I'm a freshman at Bilkent University, studying CS. \
+💻 | Currently learning Java, familiar with Python & Luau. \
+📬 | Contact me: [erenkozan2007@gmail.com](mailto:erenkozan2007@gmail.com)
